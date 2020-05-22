@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectPreferences>
+<DefaultUser></DefaultUser>
+<DefaultSecondUser></DefaultSecondUser>
+<ClientCertificateThumbprint></ClientCertificateThumbprint>
+<ServerCertificateThumbprint></ServerCertificateThumbprint>
+<DefaultHost></DefaultHost>
+<DefaultGroup></DefaultGroup>
+<ProxyHost></ProxyHost>
+<ProxyPort></ProxyPort>
+<SDITokenType></SDITokenType>
+<ControllablePreferences>
+<UseStartBeforeLogon>true</UseStartBeforeLogon></ControllablePreferences>
+</AnyConnectPreferences>
